@@ -6,7 +6,7 @@ try in your termminal: `pyenv install 3.9.0`
 
 # venv - virtual environments for each project
 
-Comes built in with python3. See [docs](https://docs.python.org/3/library/venv.html) for more details.
+Comes built in with Python3. See [docs](https://docs.python.org/3/library/venv.html) for more details.
 
 try in your terminal in the root directory of your project: `python3 -m venv env`
 
@@ -18,4 +18,4 @@ see [documentation for pip](https://pip.pypa.io/en/stable/) for installation (if
 
 try in your terminal: `python3 -m pip install numpy`
 
-update the requirement.txt with each change: `python3 -m pip freeze > requirements.txt`
+update the `requirement.txt` with each change: `python3 -m pip freeze > requirements.txt`
