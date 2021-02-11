@@ -16,6 +16,6 @@ then execute: `source env/bin/activate`
 
 see [documentation for pip](https://pip.pypa.io/en/stable/) for installation (if needed; [comes built in with Python 2 >=2.7.9 or Python 3 >=3.4](https://pip.pypa.io/en/stable/installing/))
 
-try in yoour terminal: `python3 -m pip install numpy`
+try in your terminal: `python3 -m pip install numpy`
 
 update the requirement.txt with each change: `python3 -m pip freeze > requirements.txt`
